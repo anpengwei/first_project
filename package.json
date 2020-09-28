@@ -1,0 +1,19 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "我的第一个项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anpengwei/first_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anpengwei/first_project/issues"
+  },
+  "homepage": "https://github.com/anpengwei/first_project#readme"
+}
